@@ -1,0 +1,23 @@
+{
+  "name": "srk",
+  "version": "1.0.0",
+  "description": "This is a Fullstack JavaScript Framework for Developing Interactive Web Applications.",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karthick01234/Srk.js.git"
+  },
+  "author": "Karthick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karthick01234/Srk.js/issues"
+  },
+  "homepage": "https://github.com/Karthick01234/Srk.js#readme",
+  "devDependencies": {
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
